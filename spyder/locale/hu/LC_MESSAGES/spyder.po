@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2021-07-30 19:05-0500\n"
-"PO-Revision-Date: 2021-08-14 07:15\n"
+"PO-Revision-Date: 2021-08-14 07:26\n"
 "Last-Translator: \n"
 "Language-Team: Hungarian\n"
 "MIME-Version: 1.0\n"
@@ -19,15 +19,15 @@ msgstr ""
 
 #: spyder/api/widgets/main_widget.py:234
 msgid "Main widget toolbar"
-msgstr ""
+msgstr "Fő widget eszköztár"
 
 #: spyder/api/widgets/main_widget.py:244
 msgid "Main widget corner toolbar"
-msgstr ""
+msgstr "Fő widget sarok eszköztár"
 
 #: spyder/api/widgets/main_widget.py:256
 msgid "Options menu"
-msgstr ""
+msgstr "Opciók menü"
 
 #: spyder/api/widgets/main_widget.py:303 spyder/plugins/base.py:174 spyder/plugins/editor/widgets/editor.py:677 spyder/plugins/ipythonconsole/widgets/client.py:505 spyder/plugins/variableexplorer/widgets/objectexplorer/objectexplorer.py:204
 msgid "Options"
@@ -35,35 +35,35 @@ msgstr "Paraméterek"
 
 #: spyder/api/widgets/main_widget.py:327 spyder/plugins/base.py:189
 msgid "Dock"
-msgstr ""
+msgstr "Dokk"
 
 #: spyder/api/widgets/main_widget.py:328 spyder/plugins/base.py:191
 msgid "Dock the pane"
-msgstr ""
+msgstr "Panek dokkolása"
 
 #: spyder/api/widgets/main_widget.py:334 spyder/plugins/base.py:196
 msgid "Undock"
-msgstr ""
+msgstr "Leválasztás"
 
 #: spyder/api/widgets/main_widget.py:335 spyder/plugins/base.py:198
 msgid "Undock the pane"
-msgstr ""
+msgstr "Panel leválasztása"
 
 #: spyder/api/widgets/main_widget.py:341 spyder/plugins/base.py:203 spyder/plugins/variableexplorer/widgets/arrayeditor.py:825 spyder/plugins/variableexplorer/widgets/dataframeeditor.py:993 spyder/plugins/variableexplorer/widgets/objectexplorer/objectexplorer.py:303 spyder/plugins/variableexplorer/widgets/texteditor.py:73 spyder/widgets/collectionseditor.py:1391 spyder/widgets/reporterror.py:219
 msgid "Close"
-msgstr ""
+msgstr "Bezár"
 
 #: spyder/api/widgets/main_widget.py:342 spyder/plugins/base.py:205
 msgid "Close the pane"
-msgstr ""
+msgstr "Panel bezárása"
 
 #: spyder/app/mainwindow.py:202
 msgid "Compatibility Check"
-msgstr ""
+msgstr "Kompatibilitás ellenőrzése"
 
 #: spyder/app/mainwindow.py:223
 msgid "Loading {}..."
-msgstr ""
+msgstr "Betöltés {}..."
 
 #: spyder/app/mainwindow.py:721
 msgid "An error occurred while creating a socket needed by Spyder. Please, try to run as an Administrator from cmd.exe the following command and then restart your computer: <br><br><span style='color: {color}'><b>netsh winsock reset </b></span><br>"
@@ -86,23 +86,23 @@ msgstr "Spyder belső konzol\n"
 
 #: spyder/app/mainwindow.py:932
 msgid "Loading old third-party plugins..."
-msgstr ""
+msgstr "Régebbi, harmadik féltől való beépülők betöltése..."
 
 #: spyder/app/mainwindow.py:980 spyder/plugins/editor/widgets/editor.py:281
 msgid "File switcher..."
-msgstr ""
+msgstr "Fájl váltó..."
 
 #: spyder/app/mainwindow.py:982
 msgid "Fast switch between files"
-msgstr ""
+msgstr "Gyors váltás fájlok között"
 
 #: spyder/app/mainwindow.py:988
 msgid "Symbol finder..."
-msgstr ""
+msgstr "Szimbólumkereső..."
 
 #: spyder/app/mainwindow.py:990
 msgid "Fast symbol search in file"
-msgstr ""
+msgstr "Szimbólum gyors keresése a fájlban"
 
 #: spyder/app/mainwindow.py:1007 spyder/plugins/editor/widgets/codeeditor.py:4216
 msgid "Undo"
@@ -130,7 +130,7 @@ msgstr "Összes kiválasztása"
 
 #: spyder/app/mainwindow.py:1052 spyder/app/mainwindow.py:1055 spyder/widgets/pathmanager.py:71
 msgid "PYTHONPATH manager"
-msgstr ""
+msgstr "PYTHONPATH kezelő"
 
 #: spyder/app/mainwindow.py:1070
 msgid "LSP logs"
@@ -573,7 +573,7 @@ msgstr "Háttér"
 
 #: spyder/plugins/appearance/widgets.py:99
 msgid "Scheme name:"
-msgstr ""
+msgstr "Séma neve:"
 
 #: spyder/plugins/appearance/widgets.py:106
 msgid "Color scheme editor"
