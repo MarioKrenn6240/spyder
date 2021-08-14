@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2021-07-30 19:05-0500\n"
-"PO-Revision-Date: 2021-08-14 07:57\n"
+"PO-Revision-Date: 2021-08-14 08:04\n"
 "Last-Translator: \n"
 "Language-Team: Hungarian\n"
 "MIME-Version: 1.0\n"
@@ -1160,7 +1160,7 @@ msgstr ""
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/formatting.py:72
 msgid "Default is 79"
-msgstr ""
+msgstr "Az alapértelmezett: 79"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/formatting.py:75
 msgid "Show vertical line at that length"
@@ -1272,7 +1272,7 @@ msgstr ""
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/otherlanguages.py:47
 msgid "Available servers:"
-msgstr ""
+msgstr "Elérhető szerverek:"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/otherlanguages.py:55 spyder/plugins/completion/providers/snippets/conftabs.py:75 spyder/plugins/explorer/confpage.py:61 spyder/plugins/shortcuts/confpage.py:36
 msgid "Reset to default values"
@@ -1280,11 +1280,11 @@ msgstr "Visszaállítás az alapértelmezett értékekre"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/otherlanguages.py:56
 msgid "Set up a new server"
-msgstr ""
+msgstr "Új szerver beállítása"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/otherlanguages.py:57
 msgid "Delete currently selected server"
-msgstr ""
+msgstr "Kiválasztott szerver törlése"
 
 #: spyder/plugins/completion/providers/languageserver/provider.py:274
 msgid "Language Server Protocol (LSP)"
@@ -1304,15 +1304,15 @@ msgstr ""
 
 #: spyder/plugins/completion/providers/languageserver/widgets/messagebox.py:29
 msgid "Don't show again"
-msgstr ""
+msgstr "Ne mutasd újból"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:120
 msgid "Valid JSON"
-msgstr ""
+msgstr "Érvényes JSON"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:121
 msgid "Invalid JSON"
-msgstr ""
+msgstr "Érvénytelen JSON"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:132
 msgid "To create a new server configuration, you need to select a programming language, set the command to start its associated server and enter any arguments that should be passed to it on startup. Additionally, you can set the server's hostname and port if connecting to an external server, or to a local one using TCP instead of stdio pipes.<br><br><i>Note</i>: You can use the placeholders <tt>{host}</tt> and <tt>{port}</tt> in the server arguments field to automatically fill in the respective values.<br>"
@@ -1521,15 +1521,15 @@ msgstr ""
 
 #: spyder/plugins/completion/providers/snippets/provider.py:53
 msgid "Text snippets"
-msgstr ""
+msgstr "Szöveges kódrészletek"
 
 #: spyder/plugins/completion/providers/snippets/widgets/snippetsconfig.py:219
 msgid "Valid snippet"
-msgstr ""
+msgstr "Érvényeg kódrészletek"
 
 #: spyder/plugins/completion/providers/snippets/widgets/snippetsconfig.py:220
 msgid "Invalid snippet"
-msgstr ""
+msgstr "Érvénytelen kódrészletek"
 
 #: spyder/plugins/completion/providers/snippets/widgets/snippetsconfig.py:232
 msgid "To add a new text snippet, you need to define the text that triggers it, a short description (two words maximum) of the snippet and if it should delete the trigger text when inserted. Finally, you need to define the snippet body to insert."
@@ -1541,7 +1541,7 @@ msgstr ""
 
 #: spyder/plugins/completion/providers/snippets/widgets/snippetsconfig.py:261
 msgid "Description:"
-msgstr ""
+msgstr "Leírás:"
 
 #: spyder/plugins/completion/providers/snippets/widgets/snippetsconfig.py:266
 msgid "Remove trigger text on insertion"
@@ -1553,11 +1553,11 @@ msgstr ""
 
 #: spyder/plugins/completion/providers/snippets/widgets/snippetsconfig.py:273
 msgid "<b>Snippet text:</b>"
-msgstr ""
+msgstr "<b>Kódrészlet szöveg:</b>"
 
 #: spyder/plugins/completion/providers/snippets/widgets/snippetsconfig.py:284
 msgid "Snippet editor"
-msgstr ""
+msgstr "Kódrészletek szerkesztő"
 
 #: spyder/plugins/completion/providers/snippets/widgets/snippetsconfig.py:288
 msgid "Trigger text for the current snippet"
@@ -1581,7 +1581,7 @@ msgstr ""
 
 #: spyder/plugins/completion/providers/snippets/widgets/snippetsconfig.py:474
 msgid "Description"
-msgstr ""
+msgstr "Leírás"
 
 #: spyder/plugins/console/plugin.py:81 spyder/plugins/console/widgets/main_widget.py:160
 msgid "Internal console"
@@ -1601,7 +1601,7 @@ msgstr ""
 
 #: spyder/plugins/console/widgets/internalshell.py:270
 msgid "Help..."
-msgstr ""
+msgstr "Súgó..."
 
 #: spyder/plugins/console/widgets/internalshell.py:278 spyder/plugins/help/plugin.py:66 spyder/plugins/help/widgets.py:339 spyder/plugins/help/widgets.py:578 spyder/plugins/tours/tours.py:136 spyder/widgets/switcher.py:971 spyder/widgets/tests/test_switcher.py:32
 msgid "Help"
@@ -1613,31 +1613,31 @@ msgstr ""
 
 #: spyder/plugins/console/widgets/internalshell.py:288
 msgid "Internal editor:"
-msgstr ""
+msgstr "Belső szerkesztő:"
 
 #: spyder/plugins/console/widgets/internalshell.py:289
 msgid "External editor:"
-msgstr ""
+msgstr "Külső szerkesztő:"
 
 #: spyder/plugins/console/widgets/internalshell.py:290
 msgid "Run script:"
-msgstr ""
+msgstr "Szkript futtatása:"
 
 #: spyder/plugins/console/widgets/internalshell.py:291
 msgid "Remove references:"
-msgstr ""
+msgstr "Hivatkozások eltávolítása:"
 
 #: spyder/plugins/console/widgets/internalshell.py:292
 msgid "System commands:"
-msgstr ""
+msgstr "Rendszerparancsok:"
 
 #: spyder/plugins/console/widgets/internalshell.py:293
 msgid "Python help:"
-msgstr ""
+msgstr "Python súgó:"
 
 #: spyder/plugins/console/widgets/internalshell.py:294
 msgid "GUI-based editor:"
-msgstr ""
+msgstr "Grafikus szerkesztő:"
 
 #: spyder/plugins/console/widgets/internalshell.py:435
 msgid "In order to use commands like \"raw_input\" or \"input\" run Spyder with the multithread option (--multithread) from a system terminal"
@@ -1661,7 +1661,7 @@ msgstr "Egy Python script futtatása"
 
 #: spyder/plugins/console/widgets/main_widget.py:183
 msgid "Environment variables..."
-msgstr ""
+msgstr "Környezeti változók..."
 
 #: spyder/plugins/console/widgets/main_widget.py:184
 msgid "Show and edit environment variables (for current session)"
@@ -1669,7 +1669,7 @@ msgstr "Mutatni-szerkeszteni környezet változókat (jelen szakaszra)"
 
 #: spyder/plugins/console/widgets/main_widget.py:191
 msgid "Show sys.path contents..."
-msgstr ""
+msgstr "sys.path tatalmának megjelenítése..."
 
 #: spyder/plugins/console/widgets/main_widget.py:192
 msgid "Show (read-only) sys.path"
@@ -1805,7 +1805,7 @@ msgstr ""
 
 #: spyder/plugins/editor/confpage.py:55 spyder/plugins/statusbar/confpage.py:31 spyder/plugins/statusbar/confpage.py:38
 msgid " ms"
-msgstr ""
+msgstr " ms"
 
 #: spyder/plugins/editor/confpage.py:92
 msgid "Automatic insertion of parentheses, braces and brackets"
