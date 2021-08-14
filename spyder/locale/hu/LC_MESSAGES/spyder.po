@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2021-07-30 19:05-0500\n"
-"PO-Revision-Date: 2021-07-31 00:16\n"
+"PO-Revision-Date: 2021-08-14 07:15\n"
 "Last-Translator: \n"
 "Language-Team: Hungarian\n"
 "MIME-Version: 1.0\n"
@@ -301,7 +301,7 @@ msgstr ""
 
 #: spyder/config/utils.py:45
 msgid "Json files"
-msgstr ""
+msgstr "JSON fájlok"
 
 #: spyder/config/utils.py:46
 msgid "IPython notebooks"
@@ -309,7 +309,7 @@ msgstr "IPython jegyzetkönyvek"
 
 #: spyder/config/utils.py:47
 msgid "Enaml files"
-msgstr ""
+msgstr "Enaml fájlok"
 
 #: spyder/config/utils.py:48
 msgid "Configuration files"
@@ -509,23 +509,23 @@ msgstr ""
 
 #: spyder/plugins/appearance/confpage.py:54
 msgid "Icon theme"
-msgstr ""
+msgstr "Ikon téma"
 
 #: spyder/plugins/appearance/confpage.py:68
 msgid "Syntax highlighting theme"
-msgstr ""
+msgstr "Szintaktis kiemelés témája"
 
 #: spyder/plugins/appearance/confpage.py:71
 msgid "Edit selected scheme"
-msgstr ""
+msgstr "Kiválasztott séma szerkesztése"
 
 #: spyder/plugins/appearance/confpage.py:72
 msgid "Create new scheme"
-msgstr ""
+msgstr "Új séma létrehozása"
 
 #: spyder/plugins/appearance/confpage.py:73
 msgid "Delete scheme"
-msgstr ""
+msgstr "Séma törlése"
 
 #: spyder/plugins/appearance/confpage.py:74 spyder/plugins/preferences/widgets/configdialog.py:34
 msgid "Reset to defaults"
@@ -537,7 +537,7 @@ msgstr "Betűk"
 
 #: spyder/plugins/appearance/confpage.py:103
 msgid "Plain text"
-msgstr ""
+msgstr "Egyszerű szöveg"
 
 #: spyder/plugins/appearance/confpage.py:109
 msgid "Rich text"
