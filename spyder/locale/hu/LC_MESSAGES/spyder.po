@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2021-07-30 19:05-0500\n"
-"PO-Revision-Date: 2021-08-14 07:45\n"
+"PO-Revision-Date: 2021-08-14 07:57\n"
 "Last-Translator: \n"
 "Language-Team: Hungarian\n"
 "MIME-Version: 1.0\n"
@@ -1048,7 +1048,7 @@ msgstr ""
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/docstring.py:37
 msgid "<a href='http://www.pydocstyle.org/en/stable/error_codes.html'>page</a>"
-msgstr ""
+msgstr "<a href='http://www.pydocstyle.org/en/stable/error_codes.html'>oldal</a>"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/docstring.py:41
 msgid "Here you can decide if you want to perform style analysis on your docstrings according to the {} or {} conventions. You can also decide if you want to show or ignore specific errors, according to the codes found on this {}."
@@ -1128,7 +1128,7 @@ msgstr ""
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/formatting.py:55
 msgid "Check Python files: *.py"
-msgstr ""
+msgstr "Python fájlok vizsgálata: *.py"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/formatting.py:57
 msgid "Exclude files or directories matching these patterns:"
@@ -1336,15 +1336,15 @@ msgstr ""
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:160
 msgid "Arguments:"
-msgstr ""
+msgstr "Paraméterek:"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:163
 msgid "<b>Server Configuration:</b>"
-msgstr ""
+msgstr "<b>Szerver beállítása:</b>"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:173
 msgid "LSP server editor"
-msgstr ""
+msgstr "LSP szerver szerkesztése"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:178 spyder/plugins/completion/providers/snippets/conftabs.py:53
 msgid "Programming language provided by the LSP server"
@@ -1352,11 +1352,11 @@ msgstr ""
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:179
 msgid "Select a language"
-msgstr ""
+msgstr "Nyelv kiválasztása"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:192
 msgid "TCP port number of the server"
-msgstr ""
+msgstr "A szerver TCP port száma"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:202
 msgid "Additional arguments required to start the server"
@@ -1384,15 +1384,15 @@ msgstr "Nyelv"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:244
 msgid "Language server"
-msgstr ""
+msgstr "Nyelv-szerver"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:253
 msgid "Server address"
-msgstr ""
+msgstr "Szerver címe"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:321
 msgid "Hostname must be valid"
-msgstr ""
+msgstr "Kiszolgálónak érvényesnek kell lennie"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:324
 msgid "Hostname or IP address of the host on which the server is running. Must be non empty."
@@ -1400,7 +1400,7 @@ msgstr ""
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:328
 msgid "Hostname is valid"
-msgstr ""
+msgstr "Kiszolgálónév érvényes"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:336
 msgid "Command used to start the LSP server locally. Must be non empty"
@@ -1449,11 +1449,11 @@ msgstr ""
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:33
 msgid "Snippets"
-msgstr ""
+msgstr "Kódrészletek"
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:40
 msgid "the LSP grammar"
-msgstr ""
+msgstr "LSP nyelvtan"
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:42
 msgid "Spyder allows to define custom completion snippets to use in addition to the ones offered by the Language Server Protocol (LSP). Each snippet should follow {}.<br><br> <b>Note:</b> All changes will be effective only when applying the settings"
@@ -1461,39 +1461,39 @@ msgstr ""
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:69
 msgid "Available snippets"
-msgstr ""
+msgstr "Elérhető kódrészletek"
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:76
 msgid "Create a new snippet"
-msgstr ""
+msgstr "Új kódrészlet létrehozása"
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:78
 msgid "Delete currently selected snippet"
-msgstr ""
+msgstr "Kijelölt kódrészlet törlése"
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:80
 msgid "Export snippets to JSON"
-msgstr ""
+msgstr "Kódrészletek mentése JSON fájlba"
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:81
 msgid "Import snippets from JSON"
-msgstr ""
+msgstr "Kódrészletek beolvasása JSON fájlból"
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:135
 msgid "Save snippets"
-msgstr ""
+msgstr "Kódrészletek mentése"
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:148
 msgid "Load snippets"
-msgstr ""
+msgstr "Kódrészletek beolvasása"
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:162
 msgid "All snippets imported"
-msgstr ""
+msgstr "Minden kódrészlet importálva"
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:163
 msgid "{0} snippets were loaded successfully"
-msgstr ""
+msgstr "{0} kódrészlet lett jól betöltve"
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:170
 msgid "JSON malformed"
@@ -1505,7 +1505,7 @@ msgstr ""
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:180
 msgid "Invalid snippet file"
-msgstr ""
+msgstr "Érvénytelen kódrészlet fájl"
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:181
 msgid "The provided snippet file does not comply with the Spyder JSON snippets spec and therefore it cannot be loaded.<br><br><tt>{}</tt>"
@@ -1513,7 +1513,7 @@ msgstr ""
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:198
 msgid "Incorrect snippet format"
-msgstr ""
+msgstr "Helytelen kódrészlet formátum"
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:199
 msgid "Spyder was able to load {0}/{1} snippets correctly, please check the following snippets for any syntax errors: <br><br>{2}"
