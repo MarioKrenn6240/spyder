@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2021-07-30 19:05-0500\n"
-"PO-Revision-Date: 2021-08-14 08:17\n"
+"PO-Revision-Date: 2021-08-14 08:25\n"
 "Last-Translator: \n"
 "Language-Team: Hungarian\n"
 "MIME-Version: 1.0\n"
@@ -1895,7 +1895,7 @@ msgstr "8 szóköz"
 
 #: spyder/plugins/editor/confpage.py:144
 msgid "Tabulations"
-msgstr ""
+msgstr "Tabulátorok"
 
 #: spyder/plugins/editor/confpage.py:147
 msgid "Tab stop width:"
@@ -1903,7 +1903,7 @@ msgstr ""
 
 #: spyder/plugins/editor/confpage.py:148
 msgid "spaces"
-msgstr ""
+msgstr "szóköz"
 
 #: spyder/plugins/editor/confpage.py:191
 msgid "Save all files before running script"
@@ -1919,11 +1919,11 @@ msgstr ""
 
 #: spyder/plugins/editor/confpage.py:208
 msgid "Edit template for new files"
-msgstr ""
+msgstr "Új fájlok sablonjának szerkesztése"
 
 #: spyder/plugins/editor/confpage.py:212
 msgid "Autosave"
-msgstr ""
+msgstr "Automatikus mentés"
 
 #: spyder/plugins/editor/confpage.py:214
 msgid "Automatically save a copy of files with unsaved changes"
