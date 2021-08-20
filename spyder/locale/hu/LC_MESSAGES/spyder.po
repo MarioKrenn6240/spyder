@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2021-07-30 19:05-0500\n"
-"PO-Revision-Date: 2021-08-20 06:41\n"
+"PO-Revision-Date: 2021-08-20 07:18\n"
 "Last-Translator: \n"
 "Language-Team: Hungarian\n"
 "MIME-Version: 1.0\n"
@@ -946,7 +946,7 @@ msgstr "Kite telepítése"
 
 #: spyder/plugins/completion/providers/kite/widgets/calltoaction.py:61
 msgid "Dismiss Forever"
-msgstr ""
+msgstr "Örökre mellőz"
 
 #: spyder/plugins/completion/providers/kite/widgets/install.py:71
 msgid "Now Spyder can use Kite to provide better code completions for key packages in the scientific Python Ecosystem. Install Kite for a better editor experience in Spyder. <br><br>Kite is free to use but is not open source. <a href=\"{kite_url}\">Learn more about Kite </a>"
@@ -954,7 +954,7 @@ msgstr ""
 
 #: spyder/plugins/completion/providers/kite/widgets/install.py:212
 msgid "Downloading"
-msgstr ""
+msgstr "Letöltés"
 
 #: spyder/plugins/completion/providers/kite/widgets/install.py:214
 msgid "Kite comes with a native app called the Copilot <br>which provides you with real time <br>documentation as you code.<br><br>When Kite is done installing, the Copilot will <br>launch automatically and guide you throught the <br>rest of the setup process."
@@ -1024,7 +1024,7 @@ msgstr ""
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/advanced.py:57
 msgid "This is an external server"
-msgstr ""
+msgstr "Ez egy külső kiszolgáló"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/advanced.py:60
 msgid "Use stdio pipes to communicate with server"
@@ -1112,11 +1112,11 @@ msgstr ""
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/formatting.py:27
 msgid "Code style and formatting"
-msgstr ""
+msgstr "Kódstílus és formázás"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/formatting.py:35
 msgid "<a href='http://pycodestyle.pycqa.org/en/stable/intro.html#error-codes'>pycodestyle error codes</a>"
-msgstr ""
+msgstr "<a href='http://pycodestyle.pycqa.org/en/stable/intro.html#error-codes'>pycodestyle hibakódok</a>"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/formatting.py:39
 msgid "Spyder can use pycodestyle to analyze your code for conformance to the {} convention. You can also manually show or hide specific warnings by their {}."
