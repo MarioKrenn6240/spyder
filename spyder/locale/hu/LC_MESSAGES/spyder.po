@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2021-07-30 19:05-0500\n"
-"PO-Revision-Date: 2021-08-14 08:25\n"
+"PO-Revision-Date: 2021-08-20 06:41\n"
 "Last-Translator: \n"
 "Language-Team: Hungarian\n"
 "MIME-Version: 1.0\n"
@@ -433,7 +433,7 @@ msgstr ""
 
 #: spyder/dependencies.py:205
 msgid "Customize Qt stylesheets"
-msgstr ""
+msgstr "Qt stíluslapok szerkesztése"
 
 #: spyder/dependencies.py:209
 msgid "Icon theme based on FontAwesome and Material Design icons"
@@ -477,11 +477,11 @@ msgstr ""
 
 #: spyder/dependencies.py:254
 msgid "Run Cython files in the IPython Console"
-msgstr ""
+msgstr "Cython fájlok futtatása IPython konzolban"
 
 #: spyder/dependencies.py:259
 msgid "2D/3D plotting in the IPython console"
-msgstr ""
+msgstr "2D/3D ábrázolás az IPython konzolban"
 
 #: spyder/dependencies.py:264
 msgid "View and edit two and three dimensional arrays in the Variable Explorer"
@@ -493,7 +493,7 @@ msgstr "Mutatni-szerkeszteni adat-keretet/sort a változó böngészőben"
 
 #: spyder/dependencies.py:274
 msgid "Import Matlab workspace files in the Variable Explorer"
-msgstr ""
+msgstr "Matlab munkaterületi fájlok importálása a Változók ablakba"
 
 #: spyder/dependencies.py:279
 msgid "Symbolic mathematics in the IPython Console"
@@ -501,11 +501,11 @@ msgstr "Szimbolikus matematika az IPython konzolban"
 
 #: spyder/plugins/appearance/confpage.py:41
 msgid "Main interface"
-msgstr ""
+msgstr "Fő felhasználói felület"
 
 #: spyder/plugins/appearance/confpage.py:47
 msgid "Interface theme"
-msgstr ""
+msgstr "Felhasználó felület témája"
 
 #: spyder/plugins/appearance/confpage.py:54
 msgid "Icon theme"
@@ -541,7 +541,7 @@ msgstr "Egyszerű szöveg"
 
 #: spyder/plugins/appearance/confpage.py:109
 msgid "Rich text"
-msgstr ""
+msgstr "Formázott szöveg"
 
 #: spyder/plugins/appearance/confpage.py:131 spyder/plugins/variableexplorer/widgets/importwizard.py:507
 msgid "Preview"
@@ -549,7 +549,7 @@ msgstr "Előnézet"
 
 #: spyder/plugins/appearance/confpage.py:387
 msgid "Are you sure you want to delete this scheme?"
-msgstr ""
+msgstr "Biztosan törli ezt a sémát?"
 
 #: spyder/plugins/appearance/plugin.py:41
 msgid "Appearance"
@@ -557,7 +557,7 @@ msgstr "Nézet"
 
 #: spyder/plugins/appearance/plugin.py:44
 msgid "Manage application appearance and themes."
-msgstr ""
+msgstr "Alkalmazás megjelenésének és témájának kezelése."
 
 #: spyder/plugins/appearance/widgets.py:91
 msgid "Text"
@@ -577,19 +577,19 @@ msgstr "Séma neve:"
 
 #: spyder/plugins/appearance/widgets.py:106
 msgid "Color scheme editor"
-msgstr ""
+msgstr "Színséma szerkesztése"
 
 #: spyder/plugins/application/confpage.py:53
 msgid "Language:"
-msgstr ""
+msgstr "Nyelv:"
 
 #: spyder/plugins/application/confpage.py:61
 msgid "Rendering engine:"
-msgstr ""
+msgstr "Renderelő motor:"
 
 #: spyder/plugins/application/confpage.py:66
 msgid "Use a single instance"
-msgstr ""
+msgstr "Egy példány futtatása"
 
 #: spyder/plugins/application/confpage.py:68
 msgid "Set this to open external<br> Python files in an already running instance (Requires a restart)"
@@ -597,7 +597,7 @@ msgstr "Külső Pytho fájlokat futó példányban nyitni(muszáj újraindítani
 
 #: spyder/plugins/application/confpage.py:72
 msgid "Prompt when exiting"
-msgstr ""
+msgstr "Kilépéskor figyelmeztet"
 
 #: spyder/plugins/application/confpage.py:73
 msgid "Show internal Spyder errors to report them to Github"
@@ -902,39 +902,39 @@ msgstr ""
 
 #: spyder/plugins/completion/providers/kite/provider.py:222
 msgid "Kite error"
-msgstr ""
+msgstr "Kite hiba"
 
 #: spyder/plugins/completion/providers/kite/provider.py:242
 msgid "Install Kite completion engine"
-msgstr ""
+msgstr "Kite kódkiegészítő-motor telepítése"
 
 #: spyder/plugins/completion/providers/kite/utils/install.py:31
 msgid "No status"
-msgstr ""
+msgstr "Ismeretlen állapot"
 
 #: spyder/plugins/completion/providers/kite/utils/install.py:32
 msgid "Downloading script installer"
-msgstr ""
+msgstr "Telepítőszkript letöltése"
 
 #: spyder/plugins/completion/providers/kite/utils/install.py:33
 msgid "Downloading installer"
-msgstr ""
+msgstr "Telepítő letöltése"
 
 #: spyder/plugins/completion/providers/kite/utils/install.py:34
 msgid "Installing"
-msgstr ""
+msgstr "Telepítés"
 
 #: spyder/plugins/completion/providers/kite/utils/install.py:35
 msgid "Installation finished"
-msgstr ""
+msgstr "Telepítés kész"
 
 #: spyder/plugins/completion/providers/kite/utils/install.py:36
 msgid "Installation errored"
-msgstr ""
+msgstr "Hiba a telepítés során"
 
 #: spyder/plugins/completion/providers/kite/utils/install.py:37
 msgid "Cancelled"
-msgstr ""
+msgstr "Megszakítva"
 
 #: spyder/plugins/completion/providers/kite/widgets/calltoaction.py:25
 msgid "No completions found. Get completions for this case and more by installing Kite."
@@ -942,7 +942,7 @@ msgstr ""
 
 #: spyder/plugins/completion/providers/kite/widgets/calltoaction.py:60 spyder/plugins/completion/providers/kite/widgets/install.py:95
 msgid "Install Kite"
-msgstr ""
+msgstr "Kite telepítése"
 
 #: spyder/plugins/completion/providers/kite/widgets/calltoaction.py:61
 msgid "Dismiss Forever"
